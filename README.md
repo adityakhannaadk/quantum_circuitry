@@ -1,2 +1,2 @@
-# SpmA
-Layered bayesian+NN approach to spam classification.
+# Quantum circuits
+Experimenting with quantum circuits using Google Cirq
